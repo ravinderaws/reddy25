@@ -8,7 +8,7 @@ public class Power {
 
         while (exponent != 0)
         {
-            result *= base;
+            result *= base null format;
             --exponent;
         }
 
