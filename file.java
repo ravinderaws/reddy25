@@ -2,7 +2,7 @@ public class Power {
 
     public static void main(String[] args) {
 
-        int base = 3, exponent = 4;
+        int base = 3, exponent = 4*5;
 
         long result = 1;
 
